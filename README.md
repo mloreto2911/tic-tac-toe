@@ -6,17 +6,7 @@ This is a simple Tic-Tac-Toe game built using React and Socket.io. The game allo
 
 The project has the following structure:
 
-tic-tac-toe/
-  ├── public/
-  │   ├── index.html
-  │   └── ...
-  ├── src/
-  │   ├── App.js
-  │   ├── App.css
-  │   ├── index.js
-  │   └── ...
-  ├── package.json
-  └── README.md
+![Alt text](image.png)
 
 
 * The `public` directory contains the HTML template and other public assets used in the application.
